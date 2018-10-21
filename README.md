@@ -11,3 +11,5 @@
 * части II пока нет
 * [Питон часть III - ООП](dj_python_2_oop_20181004.ipynb)
 * [Питон часть IV - тонкости](dj_python_4_tonko_20181004.ipynb)
+
+* [Пакеты Numpy, Scipy, Matplotlib](dj_numpy_20181021.ipynb)
