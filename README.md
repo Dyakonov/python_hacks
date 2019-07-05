@@ -13,3 +13,6 @@
 * [Питон часть IV - тонкости](dj_python_4_tonko_20181004.ipynb)
 
 * [Пакеты Numpy, Scipy, Matplotlib](dj_numpy_20181021.ipynb)
+
+### для начинающих
+* [Совсем начальное введение в Matplotlib](dj_matplotlib_intro.ipynb)
