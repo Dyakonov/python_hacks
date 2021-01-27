@@ -17,3 +17,11 @@
 
 ### для начинающих
 * [Совсем начальное введение в Matplotlib](dj_matplotlib_intro.ipynb)
+
+
+### Pytorch - для курса по DL
+
+* [Введение в Pytorch](dj_intro_pytorch20210125.ipynb)
+* [Пример сетей для табличных данных](dj_TABLE_example.ipynb)
+* [Пример работы с изображениями](book_dl_cnn01_MNIST.ipynb)
+
