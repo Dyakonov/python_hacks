@@ -26,4 +26,5 @@
 * [Пример работы с изображениями](book_dl_cnn01_MNIST.ipynb)
 * [Решение MNIST](dj_dl_cnn01_MNIST.ipynb) и выше тоже
 * [Автокодировщики](dj_AE_20220318.ipynb) и выше там тоже был пример (начать с него)
+* [Языковая модель на LSTM](dj_LSTMLangModel.ipynb)
 
